@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659665759921",
+    "project_id": "flush-chat-ek",
+    "storage_bucket": "flush-chat-ek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659665759921:android:57466b0b4f4ec2b1133c90",
+        "android_client_info": {
+          "package_name": "com.example.flushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659665759921-c5dbnb47bio7jt2fhgf3nh45jdj4uo1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMPGxekp2NpEx9pLmPQibS-NmGfNSq3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659665759921-c5dbnb47bio7jt2fhgf3nh45jdj4uo1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
